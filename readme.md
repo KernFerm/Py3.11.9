@@ -1,6 +1,6 @@
 # 🐍 Python 3.11.9 Installation Script 🚀
 
-This script automates the installation of Python 3.11.9 on your system and **automatically adds Python to the system PATH**! 🛠️
+This script automates the installation of Python 3.11.9 on your system and **automatically adds Python to the user PATH**! 🛠️
 
 ---
 
